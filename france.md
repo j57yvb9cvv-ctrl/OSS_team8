@@ -1,4 +1,7 @@
-# 🇫🇷 프랑스  
+# 🇫🇷 프랑스  <br>
+![Country](https://img.shields.io/badge/Country-France-blue)
+![Language](https://img.shields.io/badge/Language-French-red)
+![Topic](https://img.shields.io/badge/Topic-Culture-green)
 프랑스는 유럽 서부에 위치한 나라로, 미식 문화와 예술, 그리고 일상 속 철학적 태도가 잘 드러나는 국가이다. 단순한 관광지를 넘어 ‘삶의 방식(Art de vivre)’을 중요하게 여기는 것이 특징이다.
 
 ---
@@ -23,7 +26,8 @@
 
 ---
 
-## 🤝 인사 문화<br> 프랑스의 인사 문화는 사회적 거리와 관계를 명확히 구분하는 특징이 있다.<br>
+## 🤝 인사 문화<br>
+프랑스의 인사 문화는 사회적 거리와 관계를 명확히 구분하는 특징이 있다.<br>
 - 처음 만날 때는 **악수**를 하는 것이 일반적이다.
 - 친한 사이에서는 **비즈(La bise)**라고 불리는 볼 인사를 한다.
 - “Bonjour”는 단순한 인사가 아니라 **예의의 기본 요소**이다.
@@ -66,10 +70,10 @@
 <details>
 <summary>🧔‍♂️ 현지인 표현들!  </summary>
 🧔‍♂️ 현지인 표현들!  <br>
-- “Grave” : 완전 / 진짜로 / ㄹㅇ  
-- “Ça va ?” : 잘 지내? (가볍게 안부 묻는 표현)  
-- “D’accord” : 알겠어요 / ㅇㅋ
-- Wesh 야 / 뭐야 (영어의 yo)
+- “Grave” : 완전 / 진짜로 / ㄹㅇ <br>
+- “Ça va ?” : 잘 지내? (가볍게 안부 묻는 표현) <br>
+- “D’accord” : 알겠어요 / ㅇㅋ <br>
+- Wesh 야 / 뭐야 (영어의 yo) <br>
 
 </details>
 
