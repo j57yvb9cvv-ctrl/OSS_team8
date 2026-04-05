@@ -1,7 +1,6 @@
 # 🇫🇷 프랑스  <br>
 ![Country](https://img.shields.io/badge/Country-France-blue)
-![Language](https://img.shields.io/badge/Language-French-red)
-![Topic](https://img.shields.io/badge/Topic-Culture-green)
+![Topic](https://img.shields.io/badge/Topic-Culture-green)<br>
 프랑스는 유럽 서부에 위치한 나라로, 미식 문화와 예술, 그리고 일상 속 철학적 태도가 잘 드러나는 국가이다. 단순한 관광지를 넘어 ‘삶의 방식(Art de vivre)’을 중요하게 여기는 것이 특징이다.
 
 ---
