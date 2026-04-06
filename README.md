@@ -42,7 +42,7 @@
 **국가**  
 아래 링크를 클릭하면 각 나라별 내용을 확인할 수 있다.
 
-* 🇪🇸 [스페인](spain.md)
+* 🇪🇸 [스페인](spainpart.md)
 * 🇩🇪 [독일](germany.md)
 * 🇯🇵 [일본](AboutJapan.md)
 * 🇫🇷 [프랑스](france.md)
