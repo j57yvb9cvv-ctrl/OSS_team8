@@ -22,8 +22,7 @@
 **Schnitzel**<br>
 고기를 얇게 펴서 튀긴 요리
 
-![Pretzel](gn3.jpeg)
-
+![Pretzel](gn4.jpg)
 **Pretzel**<br>
 고리 모양의 독일 전통 빵
 
