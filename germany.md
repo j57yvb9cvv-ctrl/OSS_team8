@@ -13,31 +13,23 @@
 또 식사를 할 때에는 예절을 중요하게 생각하며, 식사 중 대화를 나누는 것을 중요하게 생각한다.
 
 
-| 음식 이름 | 설명 |
-|-----------|------|
-![Bratwurst]()
-| Bratwurst | 독일식 소시지로 가장 유명한 독일 음식 중 하나 |
-| Schnitzel | 고기를 얇게 펴서 튀긴 요리 |
-| Pretzel | 고리 모양의 독일 전통 빵 |
-| Sauerkraut | 양배추를 발효시킨 음식 |
-| Kartoffel | 감자를 이용한 다양한 요리가 많음 |
-| Beer | 독일은 세계적으로 유명한 맥주 생산국 |
 
 
-![Bratwurst](gm1.jpg)
+<img src="gm1.jpg" width="800">
+
 **Bratwurst**<br>
-독일식 소시지로 가장 유명한 독일 음식 중 하나
+독일식 소시지로, 가장 유명한 독일 음식 중 하나
 
-![Schnitzel](gm2.jpg)
+<img src="gm2.jpg" width="800">
+
 **Schnitzel**<br>
 고기를 얇게 펴서 튀긴 요리
 
-![Pretzel](gn3.jpeg)
+
+<img src="gm5.jpg" width="800">
 
 **Pretzel**<br>
 고리 모양의 독일 전통 빵
-
-
 
 ---
 
@@ -66,20 +58,21 @@
 
 ## 🗣️ 일상회화
 
-| 독일어 | 한국어 |
-|--------|--------|
-| Hallo | 안녕하세요 |
-| Guten Morgen | 좋은 아침입니다 |
-| Guten Tag | 안녕하세요 |
-| Danke | 감사합니다 |
-| Bitte | 천만에요 / 부탁합니다 |
-| Entschuldigung | 죄송합니다 / 실례합니다 |
-| Wie heißen Sie? | 이름이 무엇입니까? |
-| Ich heiße ___ | 제 이름은 ___ 입니다 |
-| Wie geht's? | 어떻게 지내세요? |
-| Gut | 잘 지냅니다 |
-| Tschüss | 안녕히 가세요 |
-
+| 독일어 | 한국어 | 발음 |
+|--------|--------|------|
+| Hallo | 안녕하세요 | 할로 |
+| Guten Morgen | 좋은 아침입니다 | 구텐 모르겐 |
+| Guten Tag | 안녕하세요 | 구텐 탁 |
+| Danke | 감사합니다 | 당케 |
+| Bitte | 천만에요 / 부탁합니다 | 비테 |
+| Entschuldigung | 죄송합니다 / 실례합니다 | 엔트슐디궁 |
+| Wie heißen Sie? | 이름이 무엇입니까? | 비 하이센 지? |
+| Ich heiße ___ | 제 이름은 ___ 입니다 | 이히 하이세 ___ |
+| Wie geht's? | 어떻게 지내세요? | 비 게이츠? |
+| Gut | 잘 지냅니다 | 구트 |
+| Tschüss | 안녕히 가세요 | 츄스 |
+| Ich hätte gern ein Brot und einen Kaffee, bitte. | 빵 하나와 커피 하나 주세요. | 이히 헤테 게른 아인 브로트 운트 아이넨 카페, 비테 |
+| Entschuldigung, wo ist die nächste U-Bahn-Station? | 실례합니다, 가장 가까운 지하철역이 어디인가요? | 엔트슐디궁, 보 이스트 디 넥스테 우반-슈타치온? |
 ---
 
 
