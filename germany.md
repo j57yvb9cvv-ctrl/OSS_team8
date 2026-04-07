@@ -14,17 +14,19 @@
 
 
 
-![Bratwurst](gm1.jpg)
 **Bratwurst**<br>
-독일식 소시지로 가장 유명한 독일 음식 중 하나
+독일식 소시지로, 가장 유명한 독일 음식 중 하나
+<img src="gm1.jpg" width="800">
 
-![Schnitzel](gm2.jpg)
 **Schnitzel**<br>
 고기를 얇게 펴서 튀긴 요리
 
-![Pretzel](gn4.jpg)
+<img src="gm2.jpg" width="800">
+
 **Pretzel**<br>
 고리 모양의 독일 전통 빵
+
+<img src="gm5.jpg" width="800">
 
 
 
