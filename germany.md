@@ -13,16 +13,6 @@
 또 식사를 할 때에는 예절을 중요하게 생각하며, 식사 중 대화를 나누는 것을 중요하게 생각한다.
 
 
-| 음식 이름 | 설명 |
-|-----------|------|
-![Bratwurst]()
-| Bratwurst | 독일식 소시지로 가장 유명한 독일 음식 중 하나 |
-| Schnitzel | 고기를 얇게 펴서 튀긴 요리 |
-| Pretzel | 고리 모양의 독일 전통 빵 |
-| Sauerkraut | 양배추를 발효시킨 음식 |
-| Kartoffel | 감자를 이용한 다양한 요리가 많음 |
-| Beer | 독일은 세계적으로 유명한 맥주 생산국 |
-
 
 ![Bratwurst](gm1.jpg)
 **Bratwurst**<br>
@@ -79,6 +69,8 @@
 | Wie geht's? | 어떻게 지내세요? |
 | Gut | 잘 지냅니다 |
 | Tschüss | 안녕히 가세요 |
+| Ich hätte gern ein Brot und einen Kaffee, bitte. | 빵 하나와 커피 하나 주세요. |
+| Entschuldigung, wo ist die nächste U-Bahn-Station? | 실례합니다, 가장 가까운 지하철역이 어디인가요? |
 
 ---
 
