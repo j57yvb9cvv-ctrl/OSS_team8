@@ -64,14 +64,3 @@
 | Où sont les toilettes ? | 우 쏭 레 뚜알렛 | 화장실 어디예요? |
 | Je voudrais ___ | 쥬 부드레 | ___ 주세요 |
 | Au revoir | 오 흐부아르 | 안녕히 가세요 |
-<details>
-<summary>🧔‍♂️ 현지인 표현들!  </summary>
-🧔‍♂️ 현지인 표현들!  <br>
-- “Grave” : 완전 / 진짜로 / ㄹㅇ <br>
-- “Ça va ?” : 잘 지내? (가볍게 안부 묻는 표현) <br>
-- “D’accord” : 알겠어요 / ㅇㅋ <br>
-- Wesh 야 / 뭐야 (영어의 yo) <br>
-
-</details>
-
----
